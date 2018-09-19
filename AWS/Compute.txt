@@ -1,0 +1,8 @@
+Compute consists of the following services
+# EC2
+# Lightsail
+# Elastic Container Service
+# EKS
+# Lambda
+# Batch
+# Elastic Beanstalk
