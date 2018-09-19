@@ -1,0 +1,6 @@
+Here is what storage has in AWS
+
+S3
+EFS
+Glacier
+Storage Gateway
